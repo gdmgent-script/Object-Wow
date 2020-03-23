@@ -13,8 +13,7 @@ Oefening - normal
 
 ### Stap 1
 
-Maak een object aan van een WoW-personage naar keuze.
-https://worldofwarcraft.com/en-us/game/races
+Maak een object aan van een WoW-personage naar keuze. [WOW - Races](https://worldofwarcraft.com/en-us/game/races)
 
 ```
 let player = {...}
@@ -52,7 +51,7 @@ Als je die methode aanspreekt moet er volgende string geretourneerd worden:
 
 `Xing-Hao vecht terug met zijn {wapen} en {talent naar keuze}`
 
-uitdaging: maar er een random talent van.
+**uitdaging:** maar er een random talent van.
 
 ###  Stap 4
 
