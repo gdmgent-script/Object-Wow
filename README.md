@@ -8,7 +8,7 @@
 - Solution ***solution***
 
 
-Oefening - Guided
+Oefening - Solution
 -------
 
 ### Stap 1
