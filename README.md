@@ -8,7 +8,7 @@
 - Solution ***solution***
 
 
-Oefening - normal
+Oefening - Guided
 -------
 
 ### Stap 1
